@@ -1,0 +1,66 @@
+.main{
+    display: flex;
+    padding: 40px;
+
+}
+.TimePicker{
+    border: none;
+    border-bottom: 1px solid;
+    border-radius: 0px;
+
+}
+label{
+    margin-top: 30px;
+}
+
+.tasks{
+    padding: 20px;
+    font-size: 15px;
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    background-color: rgb(110, 165, 218);
+    border-radius: 10px;
+    height: auto;
+}
+.taskDisplay{
+    background-color: white;
+
+
+}
+.card{
+    background-color: rgb(228, 209, 41);
+}
+.card-add{
+    background-color: rgb(42, 209, 70);
+}
+.complete{
+    display: flex;
+    gap: 24px;
+    flex-wrap: wrap;
+    
+}
+h3{
+  
+    padding: 5px;
+    font-size: 20px;
+}
+.input{
+    padding: 30px;
+    width: 100%;
+}
+
+.btn{
+    width: 250px;
+    margin-top: 20px;
+
+
+}
+.Calnder{
+    width: 500px;
+   margin-left:25%;
+   height: "400px";
+   overflow: "auto"
+  
+    
+}
